@@ -13,8 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
-
-
-git commit -m "Save changes in master branch README.md"
-git merge bug-fix-typo
+_© 2023 XYZ, Inc._
