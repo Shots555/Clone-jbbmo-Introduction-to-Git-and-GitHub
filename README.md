@@ -4,7 +4,8 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Welcome to our project! It is a tutorial for Git and GitHub...
-okok
+okok abcd
+
 ```
 Input:
    p, principal amount
