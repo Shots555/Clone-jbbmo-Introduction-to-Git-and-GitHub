@@ -14,4 +14,5 @@ Output
 ```
 
 test
+other test
 _© 2022 XYZ, Inc._
