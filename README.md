@@ -17,5 +17,6 @@ changes that i made in this file :
 <br>
    simple interest = p*t*r
    <br>
+   <br>
 
 _© 2022 XYZ, Inc._
