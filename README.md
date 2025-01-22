@@ -16,5 +16,6 @@ changes that i made in this file :
 <h2>Output</h2>
 <br>
    simple interest = p*t*r
+   <br>
 
 _© 2022 XYZ, Inc._
