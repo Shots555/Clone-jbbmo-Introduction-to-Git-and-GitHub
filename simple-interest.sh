@@ -11,6 +11,10 @@
 # t, time period in years
 # r, annual rate of interest
 
+#fsdfgsds
+
+echo "dfs"
+
 # Output:
 # simple interest = p*t*r
 
